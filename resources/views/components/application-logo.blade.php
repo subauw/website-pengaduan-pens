@@ -1,0 +1,1 @@
+<img src="{{ asset('images/pens.png') }}" alt="logo pens" class="logo" style="width: 150px; height: 150px;">
